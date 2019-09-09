@@ -12,3 +12,6 @@ Simple MQTT use cases:
 
 NOTES:
 With MQTT you can only transfer data between nodes. If you need to store or save those data you will have to implement the saving mechanism yourself.
+
+Some handy mqtt tutorials found on the Internet that you can use.
+- [Collect and store data using Shiftr.io & Processing](http://wiki.iad.zhdk.ch/EI/499023921/Shiftr.io+instructions)
